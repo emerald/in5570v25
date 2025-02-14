@@ -1,4 +1,4 @@
-# Tools and Materials for IN[59]570, Spring 2023
+# Tools and Materials for IN[59]570, Spring 2025
 
 The course
 [IN5570](https://www.uio.no/studier/emner/matnat/ifi/IN5570/) (MSc) /
@@ -10,7 +10,7 @@ using the Emerald programming language, an object-oriented language
 applications.
 
 Here, you will find the relevant course materials and handed out source code
-for exercises and assignments for the 2023 instance of the course.
+for exercises and assignments for the 2025 instance of the course.
 
 ## Emerald Modes
 
