@@ -1,4 +1,6 @@
-set -e
+#!/usr/bin/env bash
+
+set -euo pipefail
 
 # make sure you have the latest versions of stuff
 sudo apt update
