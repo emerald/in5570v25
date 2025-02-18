@@ -8,7 +8,7 @@ environment:
 	  --interactive --tty --rm \
 	  --volume "$(shell pwd):/home/docker/src/" \
 	  --workdir "/home/docker/src/" \
-	  portoleks/in5570v21:latest
+	  portoleks/in5570v25:latest
 
 fresh:
 	$(run) $(MAKE) environment
