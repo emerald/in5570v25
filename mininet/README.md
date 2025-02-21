@@ -1,5 +1,8 @@
+# `mininet` Guide
 
-# mininet guide.
+Please see the [PDF](guide/in5570v25-mininet-guide.pdf).
+
+# Old mininet guide.
 
 The intended use, is that you run:
 
